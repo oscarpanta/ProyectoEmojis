@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio/app/src/main/res/drawable/borde_redondo.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio/app/src/main/res/drawable/redondo02.xml" value="0.225" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio/app/src/main/res/drawable/ripey.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio/app/src/main/res/layout/activity_main2.xml" value="0.5" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio/app/src/main/res/layout/activity_main3.xml" value="0.371875" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio/app/src/main/res/layout/activity_question01.xml" value="0.5" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio/app/src/main/res/layout/activity_question01_espera.xml" value="0.5" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio/app/src/main/res/layout/activity_question02.xml" value="0.5" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio/app/src/main/res/layout/activity_question02_espera.xml" value="0.5" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio/app/src/main/res/layout/activity_question03.xml" value="0.5" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio/app/src/main/res/layout/activity_question03_espera.xml" value="0.5" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio/app/src/main/res/layout/activity_question04.xml" value="0.5277161862527716" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio/app/src/main/res/layout/activity_question04_espera.xml" value="0.371875" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio/app/src/main/res/layout/activity_question05.xml" value="0.5" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio/app/src/main/res/layout/activity_question05_espera.xml" value="0.371875" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio/app/src/main/res/layout/activity_question06.xml" value="0.5" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio/app/src/main/res/layout/activity_question06_espera.xml" value="0.3578125" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio2/Projets Android Studio2/app/src/main/res/layout/activity_main2.xml" value="0.371875" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio2/Projets Android Studio2/app/src/main/res/layout/activity_question01.xml" value="0.371875" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio2/Projets Android Studio2/app/src/main/res/layout/activity_question01_espera.xml" value="0.371875" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio2/Projets Android Studio2/app/src/main/res/layout/activity_question02.xml" value="0.371875" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio2/Projets Android Studio2/app/src/main/res/layout/activity_question02_espera.xml" value="0.371875" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio2/Projets Android Studio2/app/src/main/res/layout/activity_question03.xml" value="0.371875" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio2/Projets Android Studio2/app/src/main/res/layout/activity_question03_espera.xml" value="0.371875" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio2/Projets Android Studio2/app/src/main/res/layout/activity_question04.xml" value="0.371875" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio2/Projets Android Studio2/app/src/main/res/layout/activity_question04_espera.xml" value="0.371875" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio2/Projets Android Studio2/app/src/main/res/layout/activity_question05.xml" value="0.371875" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio2/Projets Android Studio2/app/src/main/res/layout/activity_question05_espera.xml" value="0.371875" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio2/Projets Android Studio2/app/src/main/res/layout/activity_question06.xml" value="0.371875" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio2/Projets Android Studio2/app/src/main/res/layout/activity_question06_espera.xml" value="0.371875" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio3/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_main2.xml" value="0.33" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio3/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question01.xml" value="0.209375" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio3/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question01_espera.xml" value="0.33" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio3/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question02.xml" value="0.209375" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio3/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question02_espera.xml" value="0.33" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio3/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question03.xml" value="0.209375" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio3/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question03_espera.xml" value="0.209375" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio3/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question04.xml" value="0.209375" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio3/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question04_espera.xml" value="0.209375" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio3/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question05.xml" value="0.1838768115942029" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio3/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question05_espera.xml" value="0.209375" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio3/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question06.xml" value="0.209375" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio3/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question06_espera.xml" value="0.209375" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio3/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_terminar.xml" value="0.1838768115942029" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio4/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_main.xml" value="0.371875" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio4/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_main2.xml" value="0.33" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio4/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question01.xml" value="0.5" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio4/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question01_espera.xml" value="0.33" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio4/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question02.xml" value="0.33" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio4/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question02_espera.xml" value="0.33" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio4/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question03.xml" value="0.5" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio4/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question03_espera.xml" value="0.371875" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio4/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question04.xml" value="0.371875" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio4/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question04_espera.xml" value="0.371875" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio4/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question05.xml" value="0.33" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio4/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question05_espera.xml" value="0.371875" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio4/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question06.xml" value="0.5" />
+        <entry key="..\:/Users/ALUCARD/Documents/Projets Android Studio4/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question06_espera.xml" value="0.5" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio2/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio2/app/src/main/res/layout/activity_main2.xml" value="0.17" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio2/app/src/main/res/layout/activity_question01.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio2/app/src/main/res/layout/activity_question01_espera.xml" value="0.14628623188405798" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio2/app/src/main/res/layout/activity_question02.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio2/app/src/main/res/layout/activity_question02_espera.xml" value="0.14628623188405798" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio2/app/src/main/res/layout/activity_question03.xml" value="0.18" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio2/app/src/main/res/layout/activity_question03_espera.xml" value="0.14628623188405798" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio2/app/src/main/res/layout/activity_question04.xml" value="0.17" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio2/app/src/main/res/layout/activity_question04_espera.xml" value="0.10520833333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio2/app/src/main/res/layout/activity_question05.xml" value="0.17" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio2/app/src/main/res/layout/activity_question05_espera.xml" value="0.14" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio2/app/src/main/res/layout/activity_question06.xml" value="0.21" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio2/app/src/main/res/layout/activity_question06_espera.xml" value="0.10520833333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_main.xml" value="0.17" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question01.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question04.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question04_espera.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question05.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question05_espera.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question06.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question06_espera.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_terminar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_main2.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question01.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question01_espera.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question02.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question02_espera.xml" value="0.2" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question03.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question03_espera.xml" value="0.15" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question04.xml" value="0.11666666666666667" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question04_espera.xml" value="0.11666666666666667" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question05.xml" value="0.18" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question05_espera.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question06.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question06_espera.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio5/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_final.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio5/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_final_espera.xml" value="0.19655797101449277" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio5/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_inicial.xml" value="0.19655797101449277" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio5/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_inicial_espera.xml" value="0.19655797101449277" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio5/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio5/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio5/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question01.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio5/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question01_espera.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio5/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question02.xml" value="0.33" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio5/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question02_espera.xml" value="0.2" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio5/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question03.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio5/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question03_espera.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio5/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question04.xml" value="0.2" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio5/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question04_espera.xml" value="0.16" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio5/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question05.xml" value="0.17" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio5/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question05_espera.xml" value="0.2" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio5/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question06.xml" value="0.18" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio5/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question06_espera.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Projets Android Studio5/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_terminar.xml" value="0.12083333333333333" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji1.xml" value="0.18" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji10.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji11.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji12.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji13.xml" value="0.1875" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji14.xml" value="0.1875" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji15.xml" value="0.1875" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji16.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji17.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji18.xml" value="0.1875" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji19.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji2.xml" value="0.2" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji20.xml" value="0.1875" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji21.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji22.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji23.xml" value="0.1875" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji24.xml" value="0.1875" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji25.xml" value="0.1983695652173913" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji26.xml" value="0.1983695652173913" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji27.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji28.xml" value="0.1983695652173913" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji29.xml" value="0.17" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji3.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji30.xml" value="0.21" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji31.xml" value="0.1983695652173913" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji32.xml" value="0.1983695652173913" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji33.xml" value="0.17" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji34.xml" value="0.1983695652173913" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji35.xml" value="0.1983695652173913" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji36.xml" value="0.21" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji37.xml" value="0.1983695652173913" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji38.xml" value="0.1983695652173913" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji4.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji5.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji6.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji7.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji8.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_emoji9.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_final.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_final_espera.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_franklin.xml" value="0.21" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_inicial.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question01.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question01_espera.xml" value="0.21" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question02.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question02_espera.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question03.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question03_espera.xml" value="0.21" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question04.xml" value="0.1983695652173913" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question04_espera.xml" value="0.21" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question05.xml" value="0.1983695652173913" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question05_espera.xml" value="0.21" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question06.xml" value="0.1983695652173913" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question06_espera.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_terminar.xml" value="0.2" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/proy-emojis/Projets Android Studio4/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/content_emoji7.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/User/Documents/Projets Android Studio3/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_main.xml" value="0.19882246376811594" />
+        <entry key="..\:/Users/User/Documents/Projets Android Studio3/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_main2.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/Documents/Projets Android Studio3/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question01.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/Documents/Projets Android Studio3/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_question03.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/User/Documents/Projets Android Studio3/Projets Android Studio3/Projets Android Studio2/app/src/main/res/layout/activity_terminar.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
